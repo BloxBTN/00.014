@@ -1,14 +1,11 @@
-BLOX BTN — versão atualizada
+BLOX BTN — versão corrigida
 
-- Início -> Jogos e preços.
-- Removida a seção de Robux e a seção Como funciona.
-- Removidos WhatsApp, números de WhatsApp e campos de contato por WhatsApp/Gmail do site.
-- Catálogo focado em jogos com serviços de farm.
-- Fotos reais dos jogos usando thumbnails do Roblox CDN.
-- Visual dark/gaming e novo logo em logo.svg.
-- Suporte pelo Tawk.to, com o widget nativo oculto para evitar o contador vermelho no botão.
-- O botão próprio “Suporte” abre o chat.
-- Mensagem inicial exibida na página de suporte/preços: “Olá! 👋 Bem-vindo ao suporte Blox BTN. Aguarde que alguém da equipe irá responder.”
-- Preços ainda ficam como “Consultar” onde você não informou o valor. 99 Noites mantém os valores que já estavam no site.
+- Imagens dos jogos foram salvas localmente em /images para não depender do Roblox CDN.
+- Layout responsivo para PC e celular.
+- 3 colunas nos produtos em telas maiores; adapta para celular.
+- Kits de cada jogo aparecem na página de preços e na área de kits.
+- Valores de VENDA são divididos por 2,65.
+- Aviso de que a venda pode ser negociada pelo Tawk.to.
+- Suporte usa Tawk.to com o botão próprio do site.
 
-Para publicar no GitHub Pages, envie todos os arquivos para a raiz do repositório.
+Arquivos: index.html, jogos.html, precos.html, suporte.html, style.css, script.js e /images.
